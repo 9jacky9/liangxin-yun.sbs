@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liangxin-yun.sbs/sitemap.xml
